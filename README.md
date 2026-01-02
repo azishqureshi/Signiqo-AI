@@ -11,5 +11,6 @@ Being written in `Python` using `OpenCV`, `TensorFlow`, and `Keras`.
 
 **As of Monday August 18, 2025:**
 
-- The model now fully understands each letter (training for full words/sentences is beginning)
+- The model now fully understands each letter via fingerspelling (training for full words/sentences is beginning)
 - It is now fully compatible with the Signiqo AI app (designed with Flutter)
+- Over 10,000+ images have been uploaded to the dataset locally
